@@ -1,0 +1,30 @@
+.h1, h1 {
+}
+
+#promo {
+  padding: initial;
+  text-align: center;
+}
+
+#shop {
+  padding: initial;
+  text-align: initial;
+}
+
+#dine {
+  padding: 40px;
+  text-align: right;
+  background: url(../../assets/img/cova.jpg);
+  background-size: cover;
+}
+
+#entertain {
+  padding: initial;
+  text-align: left;
+}
+
+#mall {
+  padding: 40px;
+  text-align: center;
+}
+
